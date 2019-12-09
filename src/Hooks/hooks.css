@@ -1,0 +1,5 @@
+.container:before {
+  content: '';
+  height: calc(var(--height) * 1px);
+  transition: height 0.5s;
+}
