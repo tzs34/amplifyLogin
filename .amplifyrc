@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "iconicdemo-20191208150226-authRole",
+            "UnauthRoleArn": "arn:aws:iam::117986924619:role/iconicdemo-20191208150226-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::117986924619:role/iconicdemo-20191208150226-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "iconicdemo-20191208150226-deployment",
+            "UnauthRoleName": "iconicdemo-20191208150226-unauthRole",
+            "StackName": "iconicdemo-20191208150226",
+            "StackId": "arn:aws:cloudformation:eu-west-1:117986924619:stack/iconicdemo-20191208150226/bf717240-19cb-11ea-b035-0226385840dc"
+        }
+    }
+}
